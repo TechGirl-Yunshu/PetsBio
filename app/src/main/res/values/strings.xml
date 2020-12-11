@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PetBio</string>
+    <string name="back_button">"Back to Pets "</string>
+    <string name="backButton">Back to Pets Profile</string>
+</resources>
